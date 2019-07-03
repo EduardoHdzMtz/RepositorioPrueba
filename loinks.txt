@@ -1,0 +1,26 @@
+CLIENT_ID
+1449_5zh2wfosggcoo8ssso8cg4gs808k8css8k0ccss8g4k0osw0k8
+CLIENT_SECRET
+32a4o0vorb0gs8c4ow0g0080cw4s8kcokcoswcoc88cc8ogkss
+
+https://pubsbapi.smartbike.com/oauth/v2/token?client_id={CLIENT_ID}&client_secret={CLIENT_SECRET}&grant_type=client_credentials
+https://pubsbapi.smartbike.com/api/v1/stations/status.json?access_token={ACCESS_TOKEN}
+
+https://pubsbapi.smartbike.com/oauth/v2/token?client_id=1449_5zh2wfosggcoo8ssso8cg4gs808k8css8k0ccss8g4k0osw0k8&client_secret=32a4o0vorb0gs8c4ow0g0080cw4s8kcokcoswcoc88cc8ogkss&grant_type=client_credentials
+https://pubsbapi.smartbike.com/api/v1/stations/status.json?access_token=MmFlNzI3MGNjZGJiMTkyZTYxOWRhMTAzY2I0NzNlZGI5ZTdmZTJjMzZiMjMyODI0NmJhMjM5NWM0NmNmMjE0OQ
+
+
+http://localhost:800/API/REGEX/v1/
+
+C:\Users\Usuario\Documents\proyectoInterfaz
+
+https://7008e328.ngrok.io
+
+CadenaDeVerificacion10
+La estacion con id {VarSEstacion} tiene un estado {{status}} y cuenta con un total de {{availability.bikes}} bicicletas disponibles
+
+id,VarSEstacion,DatosEstacion
+
+
+28 nterfaz
+1  a mano
